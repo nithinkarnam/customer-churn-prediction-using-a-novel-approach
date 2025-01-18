@@ -126,6 +126,9 @@ cd <repository_folder>
 
 ## 🏆 **Conclusion**
 This project demonstrates a robust approach to customer churn prediction by combining the strengths of multiple deep learning architectures. By analyzing diverse customer data and capturing intricate behavioral patterns, this solution provides actionable insights to improve customer retention and reduce churn rates.
+![image](https://github.com/user-attachments/assets/1dbe3647-869f-415b-a275-15c24eb5e273)
+![image](https://github.com/user-attachments/assets/6de2c21a-fbf1-4dd3-962e-feebcafd605e)
+
 
 For further details or contributions, feel free to explore the codebase or reach out through the repository’s issue tracker.
 
