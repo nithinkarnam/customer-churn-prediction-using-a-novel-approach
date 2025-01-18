@@ -130,6 +130,3 @@ This project demonstrates a robust approach to customer churn prediction by comb
 For further details or contributions, feel free to explore the codebase or reach out through the repository’s issue tracker.
 
 ---
-
-### 📌 **Tip**
-To render formulas visually, consider adding images or hosting the README file on a MathJax-compatible viewer.
